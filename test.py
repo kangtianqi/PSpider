@@ -8,7 +8,6 @@ import re
 import sys
 import logging
 import requests
-
 import spider
 
 
